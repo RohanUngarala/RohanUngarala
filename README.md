@@ -30,11 +30,11 @@
 
 ### 📜 Certifications
 
-- **[Microsoft Certified: Azure Data Scientist Associate](https://www.microsoft.com/en-us/learning/azure-data-scientist.aspx)**
-  - *Issuing Organization*: Microsoft
-  - *Date Obtained*: March 2023
-  - *Credential ID*: 123456789
-  - *Credential URL*: [View Certification](https://www.microsoft.com/en-us/learning/azure-data-scientist.aspx)
+- **Forage Certified: PwC Switzerland - Power BI Job Simulation**
+  - *Issuing Organization*: Forage
+  - *Date Obtained*: February 2025
+  - *Credential ID*: qGNBL4XZXtfNA3JDW
+  - *Credential URL*: [View Certification](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4sLyCPgmsy8DA6Dh3/a87GpgE6tiku7q3gu_4sLyCPgmsy8DA6Dh3_rrgJJTCiqqiWAQWSL_1740180306371_completion_certificate.pdf)
 
 - **[IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)**
   - *Issuing Organization*: IBM
