@@ -9,13 +9,16 @@
   <img src="https://img.shields.io/badge/Continuously_Expanding_My_Knowledge-1E90FF?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-
-
 ## About Me
 - 🎓 **Master’s in Data Analytics** from **San Jose State University**
 - 💼 **Data Analyst @ Bizprules (Contract)**
 - 🔍 Open to full time opportunities in **Data, AI & Cloud roles**
 - 🌍 Passionate about **Data Science, AI, and Finance Transformation**
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin)](https://www.linkedin.com/in/mayukh-u/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-181717?style=flat&logo=github)](https://github.com/RohanUngarala)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:rohanmayukh@gmail.com)
 
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
@@ -25,10 +28,20 @@
 ![Looker](https://img.shields.io/badge/-Looker-4285F4?style=flat&logo=looker)
 ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apache-airflow)
 
-## 📈 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=RohanUngarala&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanUngarala&layout=compact&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohanUngarala&show_icons=true&theme=dark)
+### 📜 Certifications
+
+- **[Microsoft Certified: Azure Data Scientist Associate](https://www.microsoft.com/en-us/learning/azure-data-scientist.aspx)**
+  - *Issuing Organization*: Microsoft
+  - *Date Obtained*: March 2023
+  - *Credential ID*: 123456789
+  - *Credential URL*: [View Certification](https://www.microsoft.com/en-us/learning/azure-data-scientist.aspx)
+
+- **[IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)**
+  - *Issuing Organization*: IBM
+  - *Date Obtained*: June 2022
+  - *Credential ID*: ABCD-1234
+  - *Credential URL*: [View Certification](https://www.coursera.org/account/accomplishments/certificate/ABCD-1234)
+
 
 ## 📂 Featured Projects
 
@@ -57,7 +70,18 @@
 - **Technologies**: Python, Data Mining, Cybersecurity
 - **Repository**: [Phishing-Website-Detection-Using-Data-Mining-Techniques](https://github.com/RohanUngarala/Phishing-Website-Detection-Using-Data-Mining-Techniques)
 
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin)](https://www.linkedin.com/in/mayukh-u/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-181717?style=flat&logo=github)](https://github.com/RohanUngarala)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:rohanmayukh@gmail.com)
+
+
+
+
+
+
+
+
+
+## 📈 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=RohanUngarala&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanUngarala&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohanUngarala&show_icons=true&theme=dark)
+
+
