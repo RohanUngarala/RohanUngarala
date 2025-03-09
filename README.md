@@ -11,9 +11,8 @@
 
 
 
-
-## 🚀 About Me
-- 🎯 **Data & Cloud Enthusiast** | AI & ML | Data Engineering | Analytics
+## About Me
+- 🎯 **Data & AI Enthusiast** | AI & ML | Data Engineering | Analytics
 - 🎓 **Master’s in Data Analytics** from **San Jose State University**
 - 💼 **Data Analyst @ Bizprules (Contract)**
 - 🔍 Open to opportunities in **Data, Cloud & AI Analyst roles**
@@ -60,6 +59,6 @@
 - **Repository**: [Phishing-Website-Detection-Using-Data-Mining-Techniques](https://github.com/RohanUngarala/Phishing-Website-Detection-Using-Data-Mining-Techniques)
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin)](https://www.linkedin.com/in/rohanungarala/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin)](https://www.linkedin.com/in/mayukh-u/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-181717?style=flat&logo=github)](https://github.com/RohanUngarala)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:rohanungarala@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:rohanmayukh@gmail.com)
