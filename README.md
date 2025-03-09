@@ -12,10 +12,9 @@
 
 
 ## About Me
-- 🎯 **Data & AI Enthusiast** | AI & ML | Data Engineering | Analytics
 - 🎓 **Master’s in Data Analytics** from **San Jose State University**
 - 💼 **Data Analyst @ Bizprules (Contract)**
-- 🔍 Open to opportunities in **Data, Cloud & AI Analyst roles**
+- 🔍 Open to full time opportunities in **Data, AI & Cloud roles**
 - 🌍 Passionate about **Data Science, AI, and Finance Transformation**
 
 ## 🛠️ Technologies & Tools
