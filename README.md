@@ -30,17 +30,30 @@
 
 ### 📜 Certifications
 
+**AI CERTIFICATIONS**
+
+**1)** **Salesforce AI Specialist Certificate**
+  - *Issuing Organization*: Salesforce
+  - *Date Obtained*: February 2025
+  - *Credential ID*: 5777963
+  - *Credential URL*: [View Certification](https://trailhead.salesforce.com/en/credentials/verification/)
+
+**2)** **Salesforce AI Associate Certificate**
+  - *Issuing Organization*: Salesforce
+  - *Date Obtained*: February 2025
+  - *Credential ID*: 5777663
+  - *Credential URL*: [View Certification](https://trailhead.salesforce.com/en/credentials/verification/)
+
+**2)** **Salesforce AI Associate Certificate**
+
+
 - **Forage Certified: PwC Switzerland - Power BI Job Simulation**
   - *Issuing Organization*: Forage
   - *Date Obtained*: February 2025
   - *Credential ID*: qGNBL4XZXtfNA3JDW
   - *Credential URL*: [View Certification](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4sLyCPgmsy8DA6Dh3/a87GpgE6tiku7q3gu_4sLyCPgmsy8DA6Dh3_rrgJJTCiqqiWAQWSL_1740180306371_completion_certificate.pdf)
 
-- **[IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)**
-  - *Issuing Organization*: IBM
-  - *Date Obtained*: June 2022
-  - *Credential ID*: ABCD-1234
-  - *Credential URL*: [View Certification](https://www.coursera.org/account/accomplishments/certificate/ABCD-1234)
+
 
 
 ## 📂 Featured Projects
