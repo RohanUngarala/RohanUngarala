@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Rohan Mayukh Ungarala!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7DC6F&width=435&lines=🚀+Continuously+expanding+my+knowledge+and+skills.+🚀" alt="Scrolling Text">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7DC6F&width=435&lines=+Continuously+expanding+my+knowledge+and+skills.+🚀" alt="Scrolling Text">
 </p>
 
 ## 🚀 About Me
