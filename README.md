@@ -1,8 +1,15 @@
-# 👋 Hello, I'm Rohan Mayukh Ungarala!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=87CEEB&center=true&vCenter=true&width=700&height=50&lines=Rohan+Mayukh+Ungarala" alt="Typing Name">
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=0000FF&center=true&width=500&lines=🚀+Continuously+expanding+my+knowledge+and+skills.+🚀" alt="Scrolling Text">
+  <img src="https://img.shields.io/badge/Lifelong_Learner_and_Innovator-FF6347?style=for-the-badge&logo=riseup&logoColor=white" />
+  <img src="https://img.shields.io/badge/Passionate_About_Data,_AI,_and_Cloud-FF9800?style=for-the-badge&logo=aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Building_Impactful_Tech_Solutions-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Continuously_Expanding_My_Knowledge-1E90FF?style=for-the-badge&logo=python&logoColor=white" />
 </p>
+
+
 
 
 ## 🚀 About Me
