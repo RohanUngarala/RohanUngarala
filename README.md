@@ -59,6 +59,15 @@
 
 ### 📜 Certifications
 
+**CLOUD CERTIFICATIONS**
+
+**1)** **Microsoft Azure Fundamentals AZ-900**
+  - *Issuing Organization*: Microsoft
+  - *Date Obtained*: June 2025
+  - *Credential ID*: 4746C194611A0514
+  - *Credential URL*: [View Certification](https://learn.microsoft.com/en-us/users/rohanmayukhungarala-3859/credentials/certification/azure-fundamentals?wt.mc_id=certnurture_eml1_email_wwl&tab=credentials-tab)
+
+
 **AI CERTIFICATIONS**
 
 **1)** **Salesforce AI Specialist Certificate**
