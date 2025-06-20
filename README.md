@@ -11,7 +11,7 @@
 
 ## About Me
 - 🎓 **Master’s in Data Analytics** from **San Jose State University**
-- 💼 **Data Analyst @ Bizprules (Contract)**
+- 💼 **Data Engineer @ DMS VISION INC (Contract)**
 - 🔍 Open to full time opportunities in **Data, AI & Cloud roles**
 - 🌍 Passionate about **Data Science, AI, and Finance Transformation**
 
